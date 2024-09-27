@@ -1,4 +1,4 @@
-# Personaje2024
+# Personaje Navidenio 2024
 ## Nombre del personaje
 Santa Claus
 ## Creador
@@ -64,7 +64,6 @@ Todas las partes electrónicas están escondidas dentro.
 |Estaño para soldar|<img src="https://github.com/user-attachments/assets/cbedab53-866d-4726-ac36-f00f6546f03c" alt="Estaño para soldar" width="100"/>|1 rollo pequeño|25.00|
 
 
-
 ## Software a utilizar
 |Software|Versión|
 |--|--|
@@ -84,4 +83,22 @@ https://wokwi.com/projects/410058505774266369
 https://drive.google.com/drive/folders/1-7pCrxUlHJCsWg0t2QHQ9E2O9UlkJNEZ?hl=es
 
 ## Capturas de Evaluaciones de Curso de C
-Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+
+### Examen Módulo 1
+<img src="https://github.com/user-attachments/assets/0eefa442-ff24-4e9a-8bf9-6323866c1c07" width="600" alt="Examen Módulo 1"/>
+
+### Examen Módulo 2
+<img src="https://github.com/user-attachments/assets/8c1745ef-c341-4cea-b6dd-838196fbabc8" width="600" alt="Examen Módulo 2"/>
+
+### Examen Módulo 3
+<img src="https://github.com/user-attachments/assets/eb7a18c3-ca0c-4145-9d15-8d02787b698b" width="600" alt="Examen Módulo 3"/>
+
+### Examen Módulo 4
+<img src="https://github.com/user-attachments/assets/46bf6fcd-232c-4a4b-a936-b7ebf9be6e07" width="600" alt="Examen Módulo 4"/>
+
+### Examen Módulo 5
+<img src="https://github.com/user-attachments/assets/390490a4-655d-474c-8a0f-a4f50d89c0f5" width="600" alt="Examen Módulo 5"/>
+
+### Examen Final
+<img src="https://github.com/user-attachments/assets/1aebf040-265d-4586-ba20-7b9b017aac93" width="600" alt="Examen Final"/>
+
