@@ -1,8 +1,11 @@
 # Personaje Navidenio 2024
 ## Nombre del personaje
 Santa Claus
-## Creador
-Pedro Uriel Perez Monzon
+# Creador
+**Pedro Uriel Perez Monzon**  
+**Grupo: GDS0643**  
+**Num. Control: 1223100428**  
+
 
 ## Explicacion del funcionamiento
 Detectar personas:
