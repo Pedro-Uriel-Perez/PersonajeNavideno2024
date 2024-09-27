@@ -43,7 +43,11 @@ Tiene algodón para hacer su barba y los bordes del traje.
 Todas las partes electrónicas están escondidas dentro.
 
 
+
+
+
 ## Materiales a utlizar
+
 |Material|Imagen|Cantidad|Costo Estimado|
 |--|--|--|--|
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
