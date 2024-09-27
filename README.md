@@ -5,7 +5,43 @@ Santa Claus
 Pedro Uriel Perez Monzon
 
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
+Detectar personas:
+Santa tendra un pequeño sensor escondido en su gorro.
+Cuando alguien se acerca a unos 5 cm, Santa se activa.
+
+Luces de colores:
+Santa tiene 30 leces escondidas en su traje.
+Cuando alguien se acerca, las luces hacen lo siguiente:
+Primero, parpadean rápido como si fueran flashes de una cámara.
+Luego, se encienden una tras otra, como una cascada de luces navideñas.
+Al final, las luces cambian lentamnete entre varios colores.
+
+Sonidos navideños:
+Santa tiene un pequeño parlante escondido.
+Cuando se activa, hace estos sonidos:
+Primero se oyen cascabeles.
+Luego Santa dice "¡Jo, jo, jo! ¡Feliz Navidad!".
+Termina con una corta canción navideña.
+
+Cuánto dura:
+Las luces y sonidos dura unos 15 segundos.
+Después, Santa espera un momento antes de poder activarse de nuevo.
+
+Cuando nadie está cerca:
+Unas pocas luces parpadean lentamnete, como si Santa estuviera respirando.
+Santa está listo para activarse cuando alguien se acerque.
+
+Cómo funciona por dentro:
+Usa una batería recargable que le da energía por varias horas.
+Tiene un botón para encenderlo y apagarlo.
+Un pequeño computador controla todas las luces y sonidos.
+
+Cómo está hecho:
+El cuerpo de Santa está hecho de cartón resistente.
+Su traje es de tela roja y blanca suave.
+Tiene algodón para hacer su barba y los bordes del traje.
+Todas las partes electrónicas están escondidas dentro.
+
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo Estimado|
@@ -31,6 +67,7 @@ El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (de
 
 ## Software a utilizar
 |Software|Versión|
+|--|--|
 |Thonny|4.1.6|
 |Arduino IDE|2.3.2|
 |Fritzing|Últina versión|
@@ -38,13 +75,13 @@ El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (de
 |TinkerCAD|Últina versión|
 
 ## Dibujo del personaje
-Imagen hecha a mano o con software
+<img src="https://github.com/user-attachments/assets/ced08987-b160-4c7c-8e53-0ddfce90d7d3" alt="Imagen de Santa Claus" width="600"/>
 
 ## Enlaces de la simulación de wokwi
 https://wokwi.com/projects/410058505774266369
 
 ## Videos
-Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+https://drive.google.com/drive/folders/1-7pCrxUlHJCsWg0t2QHQ9E2O9UlkJNEZ?hl=es
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
