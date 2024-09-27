@@ -79,6 +79,8 @@ Todas las partes electrónicas están escondidas dentro.
 
 ## Dibujo del personaje
 <img src="https://github.com/user-attachments/assets/ced08987-b160-4c7c-8e53-0ddfce90d7d3" alt="Imagen de Santa Claus" width="600"/>
+<img src="https://github.com/user-attachments/assets/5de9da21-e2c4-4219-9c09-1ef1b4a87f9c" alt="Imagen de Santa Claus" width="600"/>
+
 
 ## Enlaces de la simulación de wokwi
 https://wokwi.com/projects/410058505774266369
