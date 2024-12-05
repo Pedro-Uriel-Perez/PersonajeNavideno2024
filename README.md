@@ -35,7 +35,7 @@ Como puntos de mejora solo remarcaría la responsabilidad, ya que considero que 
 ## Capturas de Evaluaciones de Curso de JavaScript
 
 ### Examen Módulo 1
-<img src="https://github.com/user-attachments/assets/64360c57-9161-4e8b-b139-ff0eb8942b90)" width="600" alt="Examen Módulo 1"/>
+<img src="https://github.com/user-attachments/assets/64360c57-9161-4e8b-b139-ff0eb8942b90" width="600" alt="Examen Módulo 1"/>
 
 ### Examen Módulo 2
 <img src="https://github.com/user-attachments/assets/8c1745ef-c341-4cea-b6dd-838196fbabc8" width="600" alt="Examen Módulo 2"/>
