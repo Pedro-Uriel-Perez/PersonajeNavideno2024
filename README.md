@@ -1,95 +1,59 @@
-# Personaje Navidenio 2024
-## Nombre del personaje
-Santa Claus
-# Creador
-**Pedro Uriel Perez Monzon**  
-**Grupo: GDS0643**  
-**Num. Control: 1223100428**  
+# Instrumento de Evaluación Unidad III
+Instrumento de evaluación de la Unidad III de la materia IOT 
+
+# Códigos:
+## Placa ESP 32
+https://drive.google.com/drive/folders/1qrrQ68OmAMHVsyNfuarPRMpN2UADjYsS?usp=drive_link
+
+## Placa ESP 32 S3
+https://drive.google.com/drive/folders/1X6jZeg_6ULijYEA6FLuTeC4TZpiH4qyW?usp=drive_link
+
+# Flujo Node-Red
+https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=drive_link
+
+# Vídeo Demostrativo
+https://vm.tiktok.com/ZMke2V9HD/
+
+# Imagen de Presentación
+![imagen](https://github.com/user-attachments/assets/90f2602a-c910-4d4a-bf66-2563565a6956)
+
+# Exámenes NetAcad
+## Miguel Angel Alvarez Ibarra
+### Módulo 1
+![imagen](https://github.com/user-attachments/assets/0fbc6b31-2c83-4889-be0c-e50c07a27a4f)
+### Módulo 2
+![imagen](https://github.com/user-attachments/assets/db0cc6fc-c4f8-4601-a7a7-56605a597912)
+### Módulo 3
+![imagen](https://github.com/user-attachments/assets/96b702b7-dadb-46cc-bf3c-87dfdbfbdf3b)
+### Módulo 4
+![imagen](https://github.com/user-attachments/assets/25e5739d-2981-4a84-af53-1bd44395d257)
+### Módulo 5
+![imagen](https://github.com/user-attachments/assets/5c5097b5-c3bb-4df5-8deb-83523f7ebc2b)
+### Módulo 6
+![imagen](https://github.com/user-attachments/assets/2a8a1de3-e7c2-4bf7-b506-8b4142e9db89)
+### Exámen Final
+![imagen](https://github.com/user-attachments/assets/c3ecff4d-5297-4092-b7b2-0ca495b04898)
 
 
-## Explicacion del funcionamiento
-Detectar personas:
-Santa tendra un pequeño sensor escondido en su gorro.
-Cuando alguien se acerca a unos 5 cm, Santa se activa.
-
-Luces de colores:
-Santa tiene 30 leces escondidas en su traje.
-Cuando alguien se acerca, las luces hacen lo siguiente:
-Primero, parpadean rápido como si fueran flashes de una cámara.
-Luego, se encienden una tras otra, como una cascada de luces navideñas.
-Al final, las luces cambian lentamnete entre varios colores.
-
-Sonidos navideños:
-Santa tiene un pequeño parlante escondido.
-Cuando se activa, hace estos sonidos:
-Primero se oyen cascabeles.
-Luego Santa dice "¡Jo, jo, jo! ¡Feliz Navidad!".
-Termina con una corta canción navideña.
-
-Cuánto dura:
-Las luces y sonidos dura unos 15 segundos.
-Después, Santa espera un momento antes de poder activarse de nuevo.
-
-Cuando nadie está cerca:
-Unas pocas luces parpadean lentamnete, como si Santa estuviera respirando.
-Santa está listo para activarse cuando alguien se acerque.
-
-Cómo funciona por dentro:
-Usa una batería recargable que le da energía por varias horas.
-Tiene un botón para encenderlo y apagarlo.
-Un pequeño computador controla todas las luces y sonidos.
-
-Cómo está hecho:
-El cuerpo de Santa está hecho de cartón resistente.
-Su traje es de tela roja y blanca suave.
-Tiene algodón para hacer su barba y los bordes del traje.
-Todas las partes electrónicas están escondidas dentro.
+## Pedro Uriel Perez Monzón
+### Módulo 2
+### Módulo 3
+### Módulo 4
+### Módulo 5
+### Módulo 6
+### Exámen Final
 
 
+## Coevaluación:
+## Miguel Angel Alvarez Ibarra
+Número de control: 1223100379
 
+Mi compañero Pedro hizo varias cosas bien, me ayudó con la configuración de Node-Red ya que el adquirió mayor conocimiento y se desempeñó de mejor manera en este aspecto, es bueno detectando errores cuando algo fallaba en el proyecto el descubría el error rápido, eso nos ayudó a resolver defectos y agilizar el trabajo. Los momentos en que trabajamos juntos él se mostraba entusiasmado y con ganas de finalizar el proyecto, transmitía una emoción positiva y alegre, además de que quería aprovechar el tiempo al máximo lo cual nos benefició para concentrarnos y enfocarnos hasta finalizar la jornada de trabajo.
+Como puntos negativos puedo señalar que me pareció que su participación no era muy comprometida por momentos pues a pesar de hacer reuniones para plantear como terminar el trabajo el a veces decidía no quedarse para avanzar con el proyecto, considero que también en ocasiones se mostró un tanto irresponsable, pues, hacíamos planes para traer materiales respectivamente y en ocasiones él no los traía por lo cual los debía de traer yo.
+Como puntos de mejora solo remarcaría la responsabilidad, ya que considero que mi compañero tiene un buen nivel académico, tuvo una buena participación y se desempeñó bien durante el trabajo.
 
-
-## Materiales a utlizar
-
-|Material|Imagen|Cantidad|Costo Estimado|
-|--|--|--|--|
-|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b" width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b" />|1|30.00|
-|LEDs (varios colores)|<img src="https://github.com/user-attachments/assets/d5d6a8c6-b8d5-4105-b6b9-9f888811f3b3" width="100"/>|30|15.00|
-|Resistencias 220Ω|<img src="https://github.com/user-attachments/assets/4afe7e01-a2e6-4078-86a3-0ef0b59f24ad" alt="Resistencias 220Ω"  width="100"/>|30|7.50|
-|Cables jumper|<img src="https://github.com/user-attachments/assets/ffd2a891-89e0-4ac4-86cf-37ab1984a282" alt="Cables jumper"  width="100"/>|50|25.00|
-|Mini protoboard|<img src="https://github.com/user-attachments/assets/42e63fbb-7001-45d9-8d9d-1c8bb2d1c166" alt="Mini Protoboard" width="100"/>|1|30.00|
-|Batería LiPo 3.7V 2000mAh|<img src="https://github.com/user-attachments/assets/f24268c7-7bc4-4902-ace6-4792b3ce25b0" alt="Batería LiPo" width="100"/>|1|100.00|
-|Interruptor|<img src="https://github.com/user-attachments/assets/11ac9b75-10b5-4465-8126-0288ceb8dd6c" alt="Interruptor" width="100"/>|1|10.00|
-|Cartón pluma 30x30cm|<img src="https://github.com/user-attachments/assets/5010b4b0-17ec-4a2a-af44-70a09aff0e7c" alt="Cartón pluma" width="100"/>|2|40.00|
-|Fieltro rojo (30x30cm)|<img src="https://github.com/user-attachments/assets/12c7d205-ac5e-4ebb-8a1f-3b1719694b07" alt="Fieltro rojo" width="100"/>|1|20.00|
-|Fieltro blanco (20x20cm)|<img src="https://github.com/user-attachments/assets/0805ca26-e197-4f16-b75b-9d8eeeed8ec5" alt="Fieltro blanco" width="100"/>|1|15.00|
-|Pegamento para tela|<img src="https://github.com/user-attachments/assets/b40c9732-936d-451c-9f22-cc0a29187795" alt="Pegamento para tela" width="100"/>|1|30.00|
-|Algodón sintético|<img src="https://github.com/user-attachments/assets/99c09d1a-6793-44d9-bab4-e1e533704ec6" alt="Algodón sintético" width="100"/>|100g|25.00|
-|Mini altavoz|<img src="https://github.com/user-attachments/assets/1ecb6cc3-8569-4033-adfb-ec763de42533" alt="Mini altavoz" width="100"/>|1|30.00|
-|Cables finos para soldar|<img src="https://github.com/user-attachments/assets/2fbf37e6-1523-4850-b78c-125227524014" alt="Cables para soldar" width="100"/>|1m|10.00|
-|Estaño para soldar|<img src="https://github.com/user-attachments/assets/cbedab53-866d-4726-ac36-f00f6546f03c" alt="Estaño para soldar" width="100"/>|1 rollo pequeño|25.00|
-
-
-## Software a utilizar
-|Software|Versión|
-|--|--|
-|Thonny|4.1.6|
-|Arduino IDE|2.3.2|
-|Fritzing|Últina versión|
-|Node-RED|Últina versión|
-|TinkerCAD|Últina versión|
-
-## Dibujo del personaje
-<img src="https://github.com/user-attachments/assets/ced08987-b160-4c7c-8e53-0ddfce90d7d3" alt="Imagen de Santa Claus" width="600"/>
-<img src="https://github.com/user-attachments/assets/5de9da21-e2c4-4219-9c09-1ef1b4a87f9c" alt="Imagen de Santa Claus" width="600"/>
-
-
-## Enlaces de la simulación de wokwi
-https://wokwi.com/projects/410058505774266369
-
-## Videos
-https://drive.google.com/drive/folders/1-7pCrxUlHJCsWg0t2QHQ9E2O9UlkJNEZ?hl=es
+## Pedro Uriel Perez Monzón
+Número de control: 
 
 ## Capturas de Evaluaciones de Curso de C
 
