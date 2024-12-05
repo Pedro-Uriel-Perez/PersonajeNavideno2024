@@ -1,6 +1,12 @@
 # Instrumento de Evaluación Unidad III - Personaje Navideño
 Instrumento de evaluación de la Unidad III de la materia IOT 
 
+## Información
+- **Alumno:** Pedro Uriel Pérez Monzón
+- **Grupo:** GDS0643
+- **N.Control:**  1223100428
+- **Materia:** Principios de IoT
+
 # Códigos:
 ## Placa ESP 32
 https://drive.google.com/drive/folders/1qrrQ68OmAMHVsyNfuarPRMpN2UADjYsS?usp=drive_link
