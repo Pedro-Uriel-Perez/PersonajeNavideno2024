@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1X6jZeg_6ULijYEA6FLuTeC4TZpiH4qyW?usp=dri
 https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=drive_link
 
 # Imagen de Personaje Oogie Boogie
-![imagen](https://github.com/user-attachments/assets/09cacb74-231c-4d00-81cc-1994c6237ecd)
+<img src="https://github.com/user-attachments/assets/09cacb74-231c-4d00-81cc-1994c6237ecd" alt="Oogie Boogie" width="200">
 
 
 # Vídeo Demostrativo
@@ -27,12 +27,12 @@ https://vm.tiktok.com/ZMke2V9HD/
 
 ## Coevaluación:
 
-
 Mi compañero Miguel Ángel durante el proyecto, fue muy responsable al momento de ver que cosas o materiales necesitabamos, lo que nos ayudó a avanzar más rápido. También propuso ideas de mejora, varias de sus aportaciones reesolvieron problemas y mejoraron el resultado final. Cuando trabajábamos juntos, colabororo con lo que se tenia que hacer en el trabajo.
 
 Por otro lado, hubo momentos en los que me pareció que se desesperaba mucho, por que no salian bien las cosas, y eso generó algunos errores que luego tuvimos que corregir. También creo que, en ciertas ocasiones, no estuvo tan deacuerdo en ideas que propuse, sobre todo cuando ya estábamos cerca de la fecha de entrega.
 
 Creo que Miguel Ángel podría trabajar en ser un poco más empatico y aprender a escuchar ideas de los demas sobre todo cuando se le dice algo en lo que esta mal. Aun así, su participación fue muy buena y ayudó mucho a que se lograra este proyecto.
+
 
 
 
