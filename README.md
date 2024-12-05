@@ -28,7 +28,7 @@ https://vm.tiktok.com/ZMke2V9HD/
 ## Coevaluación:
 
 
-Mi compañero Miguel Ángel durante el proyecto, fue muy responsable al momento de ver que cosas o materiales necesitabamos, lo que nos ayudó a avanzar más rápido. También propuso ideas de mejora, varias de sus aportaciones reesolvieron problemas y mejoraron el resultado final. Cuando trabajábamos juntos, colabororo con se tenia que hacer en el trabajo.
+Mi compañero Miguel Ángel durante el proyecto, fue muy responsable al momento de ver que cosas o materiales necesitabamos, lo que nos ayudó a avanzar más rápido. También propuso ideas de mejora, varias de sus aportaciones reesolvieron problemas y mejoraron el resultado final. Cuando trabajábamos juntos, colabororo con lo que se tenia que hacer en el trabajo.
 
 Por otro lado, hubo momentos en los que me pareció que se desesperaba mucho, por que no salian bien las cosas, y eso generó algunos errores que luego tuvimos que corregir. También creo que, en ciertas ocasiones, no estuvo tan deacuerdo en ideas que propuse, sobre todo cuando ya estábamos cerca de la fecha de entrega.
 
