@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1X6jZeg_6ULijYEA6FLuTeC4TZpiH4qyW?usp=dri
 https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=drive_link
 
 # Imagen de Personaje Oogie Boogie
-<img src="https://github.com/user-attachments/assets/09cacb74-231c-4d00-81cc-1994c6237ecd" alt="Oogie Boogie" width="200">
+<img src="https://github.com/user-attachments/assets/09cacb74-231c-4d00-81cc-1994c6237ecd" alt="Oogie Boogie" width="250">
 
 
 # Vídeo Demostrativo
