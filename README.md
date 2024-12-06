@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 | Material                | Imagen                                                                 | Cantidad | Costo |
 |-------------------------|------------------------------------------------------------------------|----------|-------|
 | ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> | 3        | $396   |
-| Tira de LED RGB         | <img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/20285eb3c/tira-led-multicolor-rgb-de-5-m.jpg" width="150" />     | 1        | $20    |
+| ESP32S3         | <img src="https://github.com/user-attachments/assets/e61bab9d-bcae-42d2-890f-290e337a519c" width="150" />     | 1        | $200    |
 | Motor Servo             | <img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/196043d46/micro-servomotor-con-torque-de-1-8-kgf-cm.jpg" width="150" />    | 2        | $140    |
 | Matriz 7219        |  <img src="https://http2.mlstatic.com/D_NQ_NP_818491-MLM31229841893_062019-O.webp" width="150" /> | 1        | $95    |
 | Pantallas Oled          | <img src="https://m.media-amazon.com/images/I/61wye1QN4uL.jpg" width="150" />   | 2        | $120    |
