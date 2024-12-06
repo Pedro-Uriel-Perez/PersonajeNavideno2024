@@ -36,6 +36,8 @@ https://drive.google.com/drive/folders/1jpgsMl4b6JE_hzsYOiqz5bL08U3oIH16?usp=dri
 | Sensor HC-SR04           | <img src="https://www.geekfactory.mx/wp-content/uploads/pinout-o-patillaje-sensor-hc-sr04.jpg" width="150" />    | 1       | $30    |
 | Foamy moldeable          | <img src="https://github.com/user-attachments/assets/858a432a-1cfe-42cf-8cb9-33455b73bf48" width="150" />    | 12       | $150    |
 | Pegamento blanco          | <img src="https://github.com/user-attachments/assets/788469d9-cd8b-46dd-abf4-9c5ed997403a" width="150" />    | 1       | $33    |
+| Aérosol          | <img src="https://github.com/user-attachments/assets/dc8d2a7a-e7ec-440d-9dae-1d08799e3023" width="150" />    | 1       | $70    |
+
 
 
 
